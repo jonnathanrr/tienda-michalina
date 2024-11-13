@@ -115,7 +115,7 @@
     <footer class="footer">
         <div class="contenedor">
             <div class="barra">
-                <a class="logo" href="index.html">
+                <a class="logo" href="../index.html">
                     <h1 class="logo__nombre no-margin centrar-texto">Blog<span class="logo__bold"> Michalina</span></h1>
                 </a>
 
